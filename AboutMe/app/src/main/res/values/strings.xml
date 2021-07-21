@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">About Me</string>
+    <string name="name">Johnny Leek</string>
+    <string name="yellow_star">Yellow Star</string>
+    <string name="bio">This is my biography!\n\n I\'m a 19 year old computer science student, excited to be learning <b>android development</b> using <i>kotlin</i> and <u>android studio</u>\n\nAs we get further down, hopefully things should start to scroll so that you can read the entire message. I hope it works!\n\n\n\n\n(if you\'re seeing this then it definitely worked)\n</string>
+</resources>
