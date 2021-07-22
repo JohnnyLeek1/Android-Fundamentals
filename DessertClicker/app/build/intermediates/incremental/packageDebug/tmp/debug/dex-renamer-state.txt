@@ -1,0 +1,4 @@
+#Thu Jul 22 14:59:24 EDT 2021
+base.0=/Users/joh11633/Android-Fundamentals/DessertClicker/app/build/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
